@@ -16,7 +16,7 @@
 
 ## About me
 - 👋 Hi, I’m @mickey-yang
-- 🧑‍💻 I am a Java developer at Barclays UK
+- 🧑‍💻 I am a Java developer at a bulge bracket bank
 - 👀 I’m interested in data 
 - 🌱 I’m currently learning Java
 - ⚡ In my free time I like playing the drums 🥁 and raiding in Final Fantasy 14
