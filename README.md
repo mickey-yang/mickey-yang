@@ -16,9 +16,9 @@
 
 ## About me
 - 👋 Hi, I’m @mickey-yang
-- 🧑‍💻 I am a Java developer at a bulge bracket bank
-- 👀 I’m interested in data 
-- 🌱 I’m currently learning Java
+- 🧑‍💻 I am a Java developer at an investment bank
+- 👀 I’m interested in _data_ and learning about _cybersecurity_ 😱😱😱
+- 🌱 I’m currently learning Java and pursuing a CompTIA+ path
 - ⚡ In my free time I like playing the drums 🥁 and raiding in Final Fantasy 14
 - 📫 How to reach me: mickey.yang.ca@gmail.com
 
