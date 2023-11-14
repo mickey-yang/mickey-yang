@@ -16,10 +16,10 @@
 
 ## About me
 - 👋 Hi, I’m @mickey-yang
-- 🧑‍💻 I am a Java developer at an investment bank
+- 🧑‍💻 I am a Java developer at a financial company
 - 👀 I’m interested in _data_ and learning about _cybersecurity_ 😱😱😱
-- 🌱 I’m currently learning Java and pursuing a CompTIA+ path
-- ⚡ In my free time I like playing the drums 🥁 and raiding in Final Fantasy 14
+- 🌱 I’m currently learning Java and Networking
+- ⚡ In my free time I like playing the drums 🥁 and MMO video games
 - 📫 How to reach me: mickey.yang.ca@gmail.com
 
 ---
